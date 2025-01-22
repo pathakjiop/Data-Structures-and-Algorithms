@@ -9,6 +9,6 @@ This repository is a collection of DSA concepts, problems, and solutions, curate
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/YourUsername/DSA.git
+   git clone https://github.com/pathakjiop/Data-Structures-and-Algorithms
    cd DSA
    ```
